@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-const api = `http://localhost:8000/api/example`
+// TEST GREMLIN BREAKING YOUR TESTS const api = `http://localhost:8000/api/example`
 
 
 class App extends Component {
