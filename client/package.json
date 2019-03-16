@@ -11,7 +11,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "CI=true react-scripts test --verbose --color",
+    "test": "CI=true react-scripts test --verbose --color --coverage",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
