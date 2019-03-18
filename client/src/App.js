@@ -26,6 +26,7 @@ class App extends Component {
         <ul>
           {this.state.seaCreatures.map((seaCreature, i) => <li key={i}>{seaCreature}</li>)}
         </ul>
+        <VoterInfoDetail />
       </>
     );
   }
